@@ -4,7 +4,7 @@
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass/>
+        <sizeclass>4</sizeclass>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-02-25 18:28:49</sys_created_on>
         <sys_id>1a31530797794510d25abf1e6253afab</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_237219_needit_needit</sys_name>
         <sys_package display_value="needit" source="x_237219_needit">bfb1c9ee9779c110d25abf1e6253af13</sys_package>
         <sys_policy/>
         <sys_scope display_value="needit">bfb1c9ee9779c110d25abf1e6253af13</sys_scope>
         <sys_update_name>sys_dictionary_x_237219_needit_needit_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-02-25 18:28:49</sys_updated_on>
+        <sys_updated_on>2022-02-26 19:52:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

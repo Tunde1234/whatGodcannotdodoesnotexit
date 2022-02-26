@@ -29,21 +29,21 @@ overdueNITasks.addQuery('state', '!=', 3);
 overdueNITasks.query();
 // Write a log message for each overdue NeedIt Task Record
 while (overdueNITasks.next()) {
-    //gs.info("Overdue NeedIt Task record = " + overdueNITasks.number);
+    gs.info("Overdue NeedIt Task record = " + overdueNITasks.number);
     gs.eventQueue('x_237219_needit_needit.overdueNeedItTask', overdueNITasks, overdueNITasks.number, gs.getUserName());
 }]]></script>
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-02-26 06:12:20</sys_created_on>
         <sys_id>8de1b1df97318510d25abf1e6253af49</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Find Overdue NeedIt Tasks</sys_name>
         <sys_package display_value="needit" source="x_237219_needit">bfb1c9ee9779c110d25abf1e6253af13</sys_package>
         <sys_policy/>
         <sys_scope display_value="needit">bfb1c9ee9779c110d25abf1e6253af13</sys_scope>
         <sys_update_name>sysauto_script_8de1b1df97318510d25abf1e6253af49</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-02-26 06:57:15</sys_updated_on>
+        <sys_updated_on>2022-02-26 15:54:05</sys_updated_on>
         <time_zone>floating</time_zone>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
