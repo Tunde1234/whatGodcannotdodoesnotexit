@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>needits</mobile_title>
+        <mobile_title>Create New Record</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_237219_needit_needit</name>
-        <order>100</order>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_237219_needit.needit_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-02-25 18:28:49</sys_created_on>
+        <sys_created_on>2022-02-25 19:25:43</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ca31530797794510d25abf1e6253af53</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>All needits records</sys_name>
+        <sys_id>750edb8f97794510d25abf1e6253afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Record</sys_name>
         <sys_overrides/>
         <sys_package display_value="needit" source="x_237219_needit">bfb1c9ee9779c110d25abf1e6253af13</sys_package>
         <sys_policy/>
         <sys_scope display_value="needit">bfb1c9ee9779c110d25abf1e6253af13</sys_scope>
-        <sys_update_name>sys_app_module_ca31530797794510d25abf1e6253af53</sys_update_name>
+        <sys_update_name>sys_app_module_750edb8f97794510d25abf1e6253afa8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-02-25 19:42:29</sys_updated_on>
+        <sys_updated_on>2022-02-25 19:25:43</sys_updated_on>
         <timeline_page/>
-        <title>All needits records</title>
+        <title>Create New Record</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
